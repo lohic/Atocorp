@@ -3,5 +3,6 @@
 
 
 ##Fonts
-- (https://fontlibrary.org/fr/font/fantasque-sans-mono)[fantasque]
-- (http://velvetyne.fr/fonts/mr-pixel/)[mr pixel]
+
+- [fantasque](https://fontlibrary.org/fr/font/fantasque-sans-mono)
+- [mr pixel](http://velvetyne.fr/fonts/mr-pixel/)
