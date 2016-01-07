@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="30" height="30" tilewidth="32" tileheight="32" nextobjectid="1">
+ <tileset firstgid="1" name="collection" tilewidth="32" tileheight="32" tilecount="2">
+  <tile id="0">
+   <image width="32" height="32" source="assets/tuile-bleue.png"/>
+  </tile>
+  <tile id="1">
+   <properties>
+    <property name="chemin" value="1"/>
+   </properties>
+   <image width="32" height="32" source="assets/tuile-rouge.png"/>
+  </tile>
+ </tileset>
+ <layer name="collection-ok" width="30" height="30">
+  <data encoding="base64" compression="zlib">
+   eJzt0ksKACAIBFDr/oduL41pH4UYwU1ST6smIq0os4MuXbp06dKlmxv9E7cHcuWifajm7c/jojVd87piuPpsPWeWi3q55a7e8KU7C2vumy6aG7nRPx25Z8s4dXdj163IATNbARs=
+  </data>
+ </layer>
+</map>
