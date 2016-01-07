@@ -4,5 +4,5 @@
 
 ##Fonts
 
-- [fantasque](https://fontlibrary.org/fr/font/fantasque-sans-mono)
-- [mr pixel](http://velvetyne.fr/fonts/mr-pixel/)
+- [Fantasque](https://fontlibrary.org/fr/font/fantasque-sans-mono) -> Christophe Badani
+- [Mr Pixel](http://velvetyne.fr/fonts/mr-pixel/) -> Jany Belluz 
